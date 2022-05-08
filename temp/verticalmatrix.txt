@@ -1,0 +1,10 @@
+name:Teko
+weight:700
+win_a:870
+win_d:300
+typo_a:870
+typo_d:-300
+hhea_a:870
+hhea_d:-300
+hhea_l:80
+typo_l:80
