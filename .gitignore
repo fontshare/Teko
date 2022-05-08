@@ -10,7 +10,6 @@
 # temp
 flags
 matrai.fea
-*.vfc
 info.txt
 open.ini
 
